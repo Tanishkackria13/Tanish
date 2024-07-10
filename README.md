@@ -1,6 +1,6 @@
 <div align ="center">
   
-# Hello visitor, I'm <a href="https://tanish013.vercel.app/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Tanish Kackria"</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+# Hello visitor, I'm <a href="https://tanish013.vercel.app/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Tanish Kackria"></a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 </div>
 
 
