@@ -1,7 +1,6 @@
 # Hello visitor, I'm <a href="https://rahulsharma.vercel.app" target="_blank">Tanish Kackria</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-<div>
-  <img src="https://wakatime.com/badge/user/bc422347-c002-4bca-a9db-ef7ccfa77e4e.svg" alt="wakatime stats">
+<div align= "center">
   <img src="https://komarev.com/ghpvc/?username=tanishkackria13&label=Profile%20views&color=0e75b6&style=flat" alt="visitors">
 </div>
 
