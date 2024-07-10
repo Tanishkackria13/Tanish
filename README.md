@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=tanishkackria13&label=Profile%20views&color=0e75b6&style=flat" alt="visitors">
 </div>
 
-## 🚀 Know Me More
+## Know Me More
 
 Driven by a passion for continuous improvement and skill expansion, I excel in creating robust, high-performing solutions. My expertise spans front-end technologies such as ReactJS, Next.js, Bootstrap, MaterialUI, and TailwindCSS, as well as a solid background in backend development with Node.js, Express.js, MongoDB, PostgreSQL, and Firebase. This blend of front-end and back-end proficiency allows me to deliver innovative, tailored solutions for diverse project needs, ensuring seamless integration and scalable, efficient applications.
 
@@ -17,9 +17,9 @@ Driven by a passion for continuous improvement and skill expansion, I excel in c
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
+<div align="center">
 ### Technologies I Use
-
+<div>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" height="40" width="52" alt="nextjs logo"  />
@@ -71,7 +71,7 @@ Driven by a passion for continuous improvement and skill expansion, I excel in c
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tanish013.vercel.app/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://tanish013.vercel.app/resume.pdf)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://tanish013.vercel.app/Resume1.pdf)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tanish-kackria/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Tanishkackria13)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tanishkackria@gmail.com)
