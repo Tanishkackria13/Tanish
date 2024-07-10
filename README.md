@@ -4,12 +4,19 @@
   <img src="https://komarev.com/ghpvc/?username=tanishkackria13&label=Profile%20views&color=0e75b6&style=flat" alt="visitors">
 </div>
 
-## Know Me More
+<div align="center">
+  
+## 🙋🏻‍♂️ Know Me More
 
+<div>
+  
 Driven by a passion for continuous improvement and skill expansion, I excel in creating robust, high-performing solutions. My expertise spans front-end technologies such as ReactJS, Next.js, Bootstrap, MaterialUI, and TailwindCSS, as well as a solid background in backend development with Node.js, Express.js, MongoDB, PostgreSQL, and Firebase. This blend of front-end and back-end proficiency allows me to deliver innovative, tailored solutions for diverse project needs, ensuring seamless integration and scalable, efficient applications.
 
-
+<div align="center">
+  
 ## 🛠️ Skills
+
+<div>
 
 ### Languages
 
@@ -18,7 +25,9 @@ Driven by a passion for continuous improvement and skill expansion, I excel in c
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <div align="center">
+  
 ### Technologies I Use
+
 <div>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
@@ -55,7 +64,7 @@ Driven by a passion for continuous improvement and skill expansion, I excel in c
 
 <div align="center">
   
- ## : Stats
+ ##  Stats
 </br>
 </div>
 <br />
