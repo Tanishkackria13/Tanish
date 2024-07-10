@@ -3,9 +3,7 @@
 # Hello visitor, I'm <a href="https://tanish013.vercel.app/" target="_blank">Tanish Kackria</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 </div>
 
-<div align= "center">
-  <img src="https://komarev.com/ghpvc/?username=tanishkackria13&label=Profile%20views&color=0e75b6&style=flat" alt="visitors">
-</div>
+
 
 <div align="center">
   
@@ -87,3 +85,7 @@ Driven by a passion for continuous improvement and skill expansion, I excel in c
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tanish-kackria/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Tanishkackria13)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tanishkackria@gmail.com)
+
+<div align= "center">
+  <img src="https://komarev.com/ghpvc/?username=tanishkackria13&label=Profile%20views&color=0e75b6&style=flat" alt="visitors">
+</div>
