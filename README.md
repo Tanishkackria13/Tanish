@@ -1,4 +1,6 @@
+<div align ="center">
 # Hello visitor, I'm <a href="https://tanish013.vercel.app/" target="_blank">Tanish Kackria</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+</div>
 
 <div align= "center">
   <img src="https://komarev.com/ghpvc/?username=tanishkackria13&label=Profile%20views&color=0e75b6&style=flat" alt="visitors">
